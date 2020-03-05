@@ -1,2 +1,2 @@
-# Predicting_Stock_Prices_with_LSTM
+# Predicting Stock Prices with LSTM
 Udacity Machine Learning NanoDegree Capstone Project
